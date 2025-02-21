@@ -38,7 +38,7 @@ var level = {};
 
 $(function(){
 
-    var imgurClientId = '9db53e5936cd02f';
+    var imgurClientId = '0db82914efef438';
 
     $("#listType").change(function() {
         fileToRead = $("#listType").val() + '.txt';

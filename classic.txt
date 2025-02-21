@@ -1,276 +1,271 @@
-#Bodies
-(General)
-* Skinny
-? Expresses an interest in characters that are waifish, thin, or slender.
-* Chubby
-? Expresses an interest in characters that are well-rounded, full in form, and pudgy.
-* Small breasts
-? Expresses an interest in breasts that are particularly small, sometimes to the point of appearing absent.
-* Large breasts
-? Expresses an interest in breasts that are particularly large.
-* Small cocks
-? Expresses an interest in cocks that are below average size.
-* Large cocks
-? Expresses an interest in cocks taht are above average size.
+```vim help file name=classic.txt
+#Körper
+(Allgemein)
+* Dünn
+? Interesse an Figuren, die zierlich, dünn oder schlank sind.
+* Mollig
+? Interesse an Figuren, die gut gerundet, voll in der Form und pummelig sind.
+* Kleine Brüste
+? Interesse an besonders kleinen Brüsten, manchmal bis zu dem Punkt, dass sie fast nicht vorhanden sind.
+* Große Brüste
+? Interesse an besonders großen Brüsten.
+* Kleine Penisse
+? Interesse an unterdurchschnittlich großen Penissen.
+* Große Penisse
+? Interesse an überdurchschnittlich großen Penissen.
 
-#Clothing
-(Self, Partner)
-* Clothed sex
-? Engaging in an RP where you and/or your partner are not undressed during sexual interaction.
-* Lingerie
-? Expresses an interest in the inclusion of lingerie in the sexual context of an RP, or an interest in characters wearing such.
-* Stockings
-? Expresses an interest in the inclusion of stockings in the sexual context of an RP, or an interest in characters wearing such.
-* Heels
-? Expresses an interest in the inclusion of high heeled shoes in the sexual context of an RP, or an interest in characters wearing such.
-* Leather
-? Expresses an interest in the inclusion of leather clothing in the sexual context of an RP, or an interest in characters wearing such.
+#Kleidung
+(Selbst, Partner)
+* Bekleideter Sex
+? Teilnahme an einem Rollenspiel, bei dem man und/oder der Partner während der sexuellen Interaktion nicht ausgezogen sind.
+* Dessous
+? Interesse an der Einbeziehung von Dessous im sexuellen Kontext eines Rollenspiels oder Interesse an Figuren, die solche Dessous tragen.
+* Strümpfe
+? Interesse an der Einbeziehung von Strümpfen im sexuellen Kontext eines Rollenspiels oder Interesse an Figuren, die solche Strümpfe tragen.
+* High Heels
+? Interesse an der Einbeziehung von hochhackigen Schuhen im sexuellen Kontext eines Rollenspiels oder Interesse an Figuren, die solche Schuhe tragen.
+* Leder
+? Interesse an der Einbeziehung von Lederkleidung im sexuellen Kontext eines Rollenspiels oder Interesse an Figuren, die solche Kleidung tragen.
 * Latex
-? The usage of latex and/or rubber material worn as clothing
-* Uniform / costume
-? Expresses an interest in the inclusion of uniforms or costumes in the sexual context of an RP, or an interest in characters wearing such.
-* Cross-dressing
-? Engaging in an RP where one or more characters dress in the clothes of the gender opposite to their own.
+? Nutzung von Latex- und/oder Gummimaterial als Kleidung.
+* Uniform/Kostüm
+? Interesse an der Einbeziehung von Uniformen oder Kostümen im sexuellen Kontext eines Rollenspiels oder Interesse an Figuren, die solche Kleidung tragen.
+* Cross-Dressing
+? Teilnahme an einem Rollenspiel, bei dem sich eine oder mehrere Figuren in Kleidung des anderen Geschlechts kleiden.
 
-#Groupings
-(General)
-* You and 1 male
-* You and 1 female
-* You and MtF trans
-* You and FtM trans
-* You and 1 male, 1 female
-* You and 2 males
-* You and 2 females
-* Orgy
-? multiple male and female characters
+#Gruppierungen
+(Allgemein)
+* Du und 1 Mann
+* Du und 1 Frau
+* Du und MtF-Transgender
+* Du und FtM-Transgender
+* Du und 1 Mann, 1 Frau
+* Du und 2 Männer
+* Du und 2 Frauen
+* Orgie
+? mehrere männliche und weibliche Figuren
 
-#General
-(Giving, Receiving)
-* Romance / Affection
-? Displaying or expressing love or strong affection, passion, either during love making or during normal scenes.
-* Handjob / Fingering
-? Sexual stimulation by direct, physical contact of the hands or fingers to the genitals.
+#Allgemein
+(Geben, Empfangen)
+* Romantik / Zuneigung
+? Zeigen oder Ausdrücken von Liebe oder starker Zuneigung, Leidenschaft, entweder während des Liebesspiels oder während normaler Szenen.
+* Handjob / Fingern
+? Sexuelle Stimulation durch direkten, körperlichen Kontakt der Hände oder Finger mit den Genitalien.
 * Blowjob
-? Sexual stimulation by direct, physical contact of the mouth or tongue to male genitals
-* Deep throat
-? The act of penetrating the mouth of another character to the depths at which the penis or insertion enters the back of the mouth cavity and/or throat, sometimes causing a gag reflex, or being the recipient of such actions.
-* Swallowing
-? The act of orally consuming semen, either directly or indirectly from a penis.
-* Facials
-? The act of cumming directly onto one's face
+? Sexuelle Stimulation durch direkten, körperlichen Kontakt des Mundes oder der Zunge mit männlichen Genitalien.
+* Deep Throat
+? Das Eindringen in den Mund einer anderen Figur bis zu dem Punkt, an dem der Penis oder die Einfügung den hinteren Bereich der Mundhöhle und/oder den Rachen erreicht, manchmal einen Würgereflex auslösend oder als solche Handlung empfangen.
+* Schlucken
+? Das orale Verzehren von Sperma, entweder direkt oder indirekt von einem Penis.
+* Gesichtsbesamung
+? Das Ejakulieren direkt ins Gesicht einer Person.
 * Cunnilingus
-? Sexual stimulation by direct, physical contact of the mouth or tongue to female genitals
-* Face-sitting
-? A sexual practice where someone sits on another character's face with their buttocks or genitals, causing the person to be smothered, sometimes to the point asphyxiation; often done as form of forcing oral gratification.
+? Sexuelle Stimulation durch direkten, körperlichen Kontakt des Mundes oder der Zunge mit weiblichen Genitalien.
+* Facesitting
+? Eine sexuelle Praxis, bei der jemand auf dem Gesicht einer anderen Figur mit dem Gesäß oder den Genitalien sitzt, wodurch die Person erstickt, manchmal bis zur Erstickung; oft als Form des Zwangs durchgeführt.
 * Edging
-? Keeping on the edge of climax without orgasm
+? Am Rande des Orgasmus bleiben, ohne zu kommen.
 * Teasing
-? Refers to extended scenes of foreplay prior to explicit, sexual intercourse, which may be physical and/or verbal, typically to arouse one's partner to the point of sexual frustration or desperation.
+? Bezieht sich auf verlängerte Vorspielszenen vor explizitem, sexuellem Verkehr, die körperlich und/oder verbal sein können, typischerweise um den Partner bis zur sexuellen Frustration oder Verzweiflung zu erregen.
 
-#Ass play
-(Giving, Receiving)
-* Anal toys
-? Refers to the inclusion of anal penetration with sex toys, including but not limited to dildos, vibrators, anal eggs, anal beads, etc.
-* Anal sex/pegging
-? Being penetrated by a partner, with a penis or strap-on
+#Anale Spiele
+(Geben, Empfangen)
+* Anale Spielzeuge
+? Bezieht sich auf die Einbeziehung von analem Eindringen mit Sextoys, einschließlich, aber nicht beschränkt auf Dildos, Vibratoren, Analeier, Analperlen usw.
+* Analsex/Pegging
+? Von einem Partner mit einem Penis oder Strap-On penetriert werden.
 * Rimming
-? The act of giving oral stimulation to a partner's anus, by the means of licking and/or penetrating the recipient's anus with the tongue.
-* Double penetration
-? The act of penetrating a single character's anus with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
-* Anal fisting
-? The act of inserting one's hand(s) and/or arm(s) into one's partner's anus, or being the recipient of such acts.
+? Das Geben von oraler Stimulation am Anus eines Partners durch Lecken und/oder Eindringen des Empfängers Anus mit der Zunge.
+* Doppelte Penetration
+? Das Eindringen in den Anus einer einzelnen Figur mit zwei Objekten, einschließlich, aber nicht beschränkt auf den Penis, Sextoys, Faust usw., oder das Empfangen solcher Handlungen.
+* Analfisting
+? Das Einführen der Hand(en) und/oder des Arms in den Anus des Partners oder das Empfangen solcher Handlungen.
 
-#Restrictive
-(Self, Partner)
-* Gag
-? The act of placing and lodging an object in another character's mouth to force him or her to breathe through his or her nose, as well as creating the inability to speak, or receiving such actions.
-* Collar
-? Wearing a collar around the neck
-* Leash
-? Being lead around on a leash
-* Chastity
-? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
-* Bondage (Light)
-? The use of bondage that is mild or moderate in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Bondage (Heavy)
-? The use of bondage that is extreme in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Encasement
-? one’s whole body being wrapped up like a mummy in a latex suit, sleepsack, or other fetish gear for the purposes of sexual gratification.
+#Einschränkungen
+(Selbst, Partner)
+* Knebel
+? Das Einführen und Verankern eines Objekts im Mund einer anderen Figur, um sie zu zwingen, durch die Nase zu atmen, sowie die Unfähigkeit zu sprechen, oder das Empfangen solcher Handlungen.
+* Halsband
+? Das Tragen eines Halsbandes um den Hals.
+* Leine
+? An einer Leine herumgeführt werden.
+* Keuschheit
+? Sexuelle Abstinenz, entweder freiwillig oder erzwungen; dies kann das einfache Vermeiden von sexuellen Aktivitäten umfassen oder das Tragen eines Geräts, das diese verhindert.
+* Bondage (Leicht)
+? Die Verwendung von Fesseln, die mild oder moderat sind, entweder in der Position, in der sie die gefesselte Figur halten, der Dauer, in der sie gefesselt ist, oder dem Grad der verursachten Unbequemlichkeit.
+* Bondage (Schwer)
+? Die Verwendung von Fesseln, die extrem sind, entweder in der Position, in der sie die gefesselte Figur halten, der Dauer, in der sie gefesselt ist, oder dem Grad der verursachten Unbequemlichkeit.
+* Einkapselung
+? Der gesamte Körper wird wie eine Mumie in einen Latexanzug, Schlafsack oder anderes Fetisch-Geschirr gewickelt, um sexuelle Befriedigung zu erreichen.
 
-#Toys
-(Self, Partner)
+#Spielzeuge
+(Selbst, Partner)
 * Dildos
-? an object shaped like an erect penis used for sexual stimulation.
+? Ein Objekt, das wie ein erigierter Penis geformt ist und zur sexuellen Stimulation verwendet wird.
 * Plugs
-? a sex toy of a type designed to be inserted into the rectum.
-* Vibrators
-? a vibrating device used for sexual stimulation.
+? Ein Sextoy, das so gestaltet ist, dass es in das Rektum eingeführt wird.
+* Vibratoren
+? Ein vibrierendes Gerät, das zur sexuellen Stimulation verwendet wird.
 * Sounding
-? The act of inserting metal rods into a male or female's urethra, or receiving such actions; technically implies rods that resonate and/or vibrate in response to a form of stimulation, but does not necessarily mean so.
+? Das Einführen von Metallstäben in die Harnröhre eines Mannes oder einer Frau oder das Empfangen solcher Handlungen; impliziert technisch gesehen Stäbe, die auf eine Form von Stimulation resonieren und/oder vibrieren, jedoch nicht notwendigerweise.
 
-#Domination
-(As Dominant, As Submissive)
-* General Dom / General Sub
-? Catchall for Dominant/Submissive Activities.
-* Domestic servitude
-? Being served by a butler, waitress, chauffeur, maid or housekeeper, or serving as one.
-* Slavery
-? Serving as the dominant's beck and call, or recieving such service, without choice.
-* Pet play
-? Petplay is a in role in which the focus is on the sub entering the altered mind space of a different species, often a dog, cat, or horse.
+#Dominanz
+(Als Dominant, Als Submissiv)
+* Allgemeine Dominanz / Allgemeine Unterwerfung
+? Sammelbegriff für dominante/unterwürfige Aktivitäten.
+* Häusliche Knechtschaft
+? Bedient werden von einem Butler, Kellner, Chauffeur, Dienstmädchen oder Hausangestellten oder selbst als solcher dienen.
+* Sklaverei
+? Dem Ruf des Dominanten ohne Wahlmöglichkeit dienen oder solchen Dienst empfangen.
+* Haustierspiel
+? Haustierspiel ist eine Rolle, bei der der Fokus darauf liegt, dass der Sub in den veränderten Geisteszustand einer anderen Spezies, oft eines Hundes, einer Katze oder eines Pferdes, eintaucht.
 * DD/lg, MD/lb
-? Daddy or Mommy Dom/ Littly Girl or Boy. The daddy/mommy is the more dominant half of the relationship, the little is the more submissive.
-* Discipline
-? The use of reinforcement (rewards and/or punishments) in order to train a submissive to obey the various commands of a master.
-* Begging
-? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
-* Forced orgasm
-? A forced orgasm is consensual BDSM or kinky sexual play whereby a person consents to be forced to orgasm in a way that is beyond their control.
-* Orgasm control
-? Refers to the dominant being in control of when the submissive achieves orgasm, either by physical means or by command; typically involves domination and/or excessive teasing and edging; orgasm may be completely denied.
-* Orgasm denial
-? Refers to the dominant denying the submissive orgasm.
-* Power exchange
-? A relationship with service at the core.
+? Daddy oder Mommy Dom/Kleines Mädchen oder Junge. Der Daddy/Mommy ist der dominantere Teil der Beziehung, das Kleine ist der unterwürfigere.
+* Disziplin
+? Die Verwendung von Verstärkung (Belohnungen und/oder Strafen), um einen Submissiven zu trainieren, die verschiedenen Befehle eines Meisters zu befolgen.
+* Betteln
+? Die selbst-erniedrigende Handlung des Flehens als Form der Unterwerfung, die in ein Rollenspiel einbezogen wird.
+* Erzwungener Orgasmus
+? Ein erzwungener Orgasmus ist einvernehmliches BDSM oder kinky sexuelles Spiel, bei dem eine Person zustimmt, zu einem Orgasmus gezwungen zu werden, der über ihre Kontrolle hinausgeht.
+* Orgasmuskontrolle
+? Bezieht sich auf den Dominanten, der kontrolliert, wann der Submissive einen Orgasmus erreicht, entweder durch physische Mittel oder durch Befehl; typischerweise beinhaltet es Dominanz und/oder übermäßiges Teasing und Edging; der Orgasmus kann ...
+* Orgasmusverweigerung
+? Bezieht sich auf den Dominanten, der dem Submissiven den Orgasmus verweigert.
+* Machtwechsel
+? Eine Beziehung, bei der der Dienst im Mittelpunkt steht.
 
-#No consent
-(Aggressor, Target)
-* Non-con / rape
-? taking/being taken against one's will, often through force
-* Blackmail / coercion
-? Refers to the inclusion of Coercion and/or Blackmail in the context of the story arc of an RP, often in the form of a semi-consensual means of receiving sex from a partner.
-* Kidnapping
-? The act of abducting a character in an RP for the purpose of abusing, often sexually, or being abducted for such reasons; often implies indefinite imprisonment.
-* Drugs
-? The use of illicit drugs in the context of an RP, typically to disorientate or otherwise mentally incapacitate a character, or to elevate the sensations of sex.
-* Alcohol
-? The use of alcohol in the context of an RP, typically to disorientate or otherwise mentally incapacitate a character, or to elevate the sensations of sex.
-* Sleep play
-? Engaging in sexual acts with an unconscious/asleep partner
+#Keine Zustimmung
+(Angreifer, Ziel)
+* Nicht-einvernehmlicher Sex / Vergewaltigung
+? Nehmen/genommen werden gegen den eigenen Willen, oft durch Gewalt.
+* Erpressung / Nötigung
+? Bezieht sich auf die Einbeziehung von Nötigung und/oder Erpressung im Kontext des Handlungsbogens eines Rollenspiels, oft in Form eines semi-einvernehmlichen Mittels, um Sex von einem Partner zu erhalten.
+* Entführung
+? Die Handlung, eine Figur in einem Rollenspiel zu entführen, um sie zu missbrauchen, oft sexuell, oder entführt zu werden aus solchen Gründen; impliziert oft unbestimmte Gefangenschaft.
+* Drogen
+? Die Nutzung von illegalen Drogen im Kontext eines Rollenspiels, typischerweise um eine Figur zu desorientieren oder anderweitig geistig zu beeinträchtigen, oder um die Empfindungen des Sex zu verstärken.
+* Alkohol
+? Die Nutzung von Alkohol im Kontext eines Rollenspiels, typischerweise um eine Figur zu desorientieren oder anderweitig geistig zu beeinträchtigen, oder um die Empfindungen des Sex zu verstärken.
+* Schlafspiel
+? Sexuelle Handlungen mit einem bewusstlosen/schlafenden Partner.
 
-#Taboo
-(General)
-* Incest
-? Engaging in an RP in which at least two characters will be related
-* Age Gap
-? Refers to scenes in which there is a signifigant gap in the ages of characters.
+#Tabu
+(Allgemein)
+* Inzest
+? Teilnahme an einem Rollenspiel, in dem mindestens zwei Figuren verwandt sind.
+* Altersunterschied
+? Bezieht sich auf Szenen, in denen es einen signifikanten Altersunterschied zwischen den Figuren gibt.
 * Interracial
-? Scenes based on interracial interactions without relying on racial stereotypes.
-*Raceplay
-? Scenes based on racial stereotypes or racism, including scenes set in racist settings.
-* Bestiality
-? Refers to a sapient character engaging in a sexual act with a non-sapient animal, or playing a non-sapient animal in an RP and being engaged by a sapient character.
-* Necrophilia
-? The act of having sex with a dead, or otherwise unconscious or inanimate, character that was once alive, or, theoretically, receiving such actions.
-* Cheating
-? Where one or both partners are being unfaithful to significant others.
-* Exhibitionism
-? Engaging in an RP in which the setting is of a public nature; typically used in conjunction with exhibitionism and/or humiliation.
-* Voyeurism
-? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit, or the act of revealing one's self and/or doing something otherwise explicit with the intent to be viewed.
+? Szenen basierend auf interrassischen Interaktionen ohne auf rassistische Stereotypen zurückzugreifen.
+* Rassenspiel
+? Szenen, die auf rassistischen Stereotypen oder Rassismus basieren, einschließlich Szenen, die in rassistischen Umgebungen angesiedelt sind.
+* Sodomie
+? Bezieht sich auf eine vernunftbegabte Figur, die einen sexuellen Akt mit einem nicht-vernunftbegabten Tier vollzieht oder eine nicht-vernunftbegabte Tierrolle in einem Rollenspiel übernimmt und von einer vernunftbegabten Figur penetriert wird.
+* Nekrophilie
+? Der Akt, Sex mit einer toten oder anderweitig bewusstlosen oder leblosen Figur zu haben, die einst lebendig war oder theoretisch solche Handlungen zu empfangen.
+* Betrug
+? Szenarien, in denen eine oder beide Partner ihren bedeutenden anderen untreu sind.
+* Exhibitionismus
+? Teilnahme an einem Rollenspiel, bei dem die Umgebung öffentlich ist; typischerweise verwendet in Verbindung mit Exhibitionismus und/oder Demütigung.
+* Voyeurismus
+? Bezieht sich auf die sexuelle Stimulation aus dem Anblick oder Geheimhalten, wie eine Person (oder Personen) sich entblößt oder etwas explizit tut, oder das Handeln solcher Beobachtungen selbst.
 
-#Surrealism
-(Self, Partner)
+#Surrealismus
+(Selbst, Partner)
 * Futanari/Futa
-? characters who have an overall feminine body, but have both female and male genitalia (although testicles are not always present)
+? Figuren, die einen überwiegend weiblichen Körper haben, aber sowohl weibliche als auch männliche Genitalien besitzen (obwohl Hoden nicht immer vorhanden sind).
 * Furry
-? Anthropomorphic animal characters.
+? Anthropomorphe Tierfiguren.
 * Vore
-? The act of physically consuming another character
+? Der Akt, eine andere Figur physisch zu konsumieren.
 * Transformation
-? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
-* Tentacles
-? Engaging in an RP in which self-sentient tentacles or tentacle-like appendages will penetrate a character; often implies multiple penetration.
-* Monster or Alien
-? Various types of monsters, Extraterrestrials, and aesthetically challenging characters.
-* Ghost
-? The formerly living, not currently in posession of a body
+? Der Akt, die körperlichen Merkmale eines Teilnehmers eines Rollenspiels, möglicherweise einschließlich der eigenen, durch magische oder chemische Mittel dramatisch zu verändern; kann auf eine Vielzahl von unterschiedlichen Transformationen bezogen werden.
+* Tentakel
+? Teilnahme an einem Rollenspiel, bei dem selbst-sentiente Tentakel oder tentakelähnliche Anhängsel eine Figur penetrieren; oft impliziert es multiple Penetration.
+* Monster oder Alien
+? Verschiedene Arten von Monstern, Außerirdischen und ästhetisch herausfordernden Figuren.
+* Geist
+? Die ehemals Lebenden, nicht im Besitz eines Körpers.
 
-#Fluids
-(General)
-* Blood
-? Pertains to the inclusion of blood or the retrieval of blood in any form in a sexual context, or engaging in acts which will draw blood.
-* Watersports
-? Pertains to the inclusion of urine, or the expelling of urine, in any form, in the sexual context of an RP.
-* Scat
-? Pertains to the inclusion of fecal matter or the expelling of fecal matter in any form in the sexual context of an RP.
-* Lactation
-? The act of producing milk from one's breasts, or engaging in sex with a character that produces milk from one's breasts, typically in response to sexual stimulation, and any play that will emanate thereof.
-* Diapers
-? A situation in which at least one character will wear a diaper; typically implies that the diaper will be soiled with urine and/or fecal matter, usually in conjunction with age play or infantilism, but sometimes in conjunction with humiliation.
-* Cum play
-? Any number of situations focused on playing with cum.
+#Flüssigkeiten
+(Allgemein)
+* Blut
+? Bezieht sich auf die Einbeziehung von Blut oder das Entnehmen von Blut in irgendeiner Form im sexuellen Kontext oder das Durchführen von Handlungen, die Blut ziehen.
+* Wassersport
+? Bezieht sich auf die Einbeziehung von Urin oder das Ausscheiden von Urin in irgendeiner Form im sexuellen Kontext eines Rollenspiels.
+* Kot
+? Bezieht sich auf die Einbeziehung von Kot oder das Ausscheiden von Kot in irgendeiner Form im sexuellen Kontext eines Rollenspiels.
+* Laktation
+? Der Akt, Milch aus den Brüsten zu produzieren oder Sex mit einer Figur zu haben, die Milch aus den Brüsten produziert, typischerweise als Reaktion auf sexuelle Stimulation, und jegliches Spiel, das diese Milch absondert.
+* Windeln
+? Eine Situation, in der mindestens eine Figur eine Windel trägt; typischerweise impliziert es, dass die Windel mit Urin und/oder Kot gefüllt wird, meist in Verbindung mit Alters- oder Infantilismus-Rollenspielen.
+* Cum-Spiel
+? Eine Vielzahl von Situationen, die sich auf das Spielen mit Sperma konzentrieren.
 
-#Degradation
-(Giving, Receiving)
-* Glory hole
-? Servicing a partner or recieving service from a partner with a physical barrier between the participants
-* Name calling
-? Engaging in an RP in which one character will be called names, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
-* Humiliation
-? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
+#Degradierung
+(Geben, Empfangen)
+* Glory Hole
+? Einen Partner durch eine physische Barriere bedienen oder bedient werden.
+* Namensnennung
+? Teilnahme an einem Rollenspiel, bei dem eine Figur beschimpft wird, um entweder eine sexuelle Reaktion aus den Emotionen der Demütigung zu erzeugen oder einfach als Form von verbaler Erniedrigung.
+* Demütigung
+? Teilnahme an einem Rollenspiel, bei dem eine Figur extrem und/oder häufig beschämt wird, um entweder eine sexuelle Reaktion aus den Emotionen der Demütigung zu erzeugen oder einfach als Form von verbaler Erniedrigung.
 
-#Touch & Stimulation
-(Actor, Subject)
-* Cock/Pussy worship
-? Gratuitous acknowledgment of one's partner's genitalia, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Ass worship
-? Gratuitous acknowledgment of one's partner's ass, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Foot play
-? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
-* Tickling
-? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
-* Sensation play
-? Sensation play describes a wide variety of activities, both vanilla and kinky, that use the body's senses as a way to arouse and provide stimulation to a partner. Although sensation play is often related to skin sensations, it doesn't have to be so limited. Sight, taste, and hearing can also be included in sensation play.
-* Electro stimulation
-? The use of sex toys that carry an electrical current; sometimes painful.
+#Berührung & Stimulation
+(Akteur, Subjekt)
+* Penis/Vagina-Verehrung
+? Übermäßige Anerkennung der Genitalien eines Partners, entweder verbal und/oder körperlich, oder das Empfangen solcher Handlungen; impliziert typischerweise orale Stimulation.
+* Gesäß-Verehrung
+? Übermäßige Anerkennung des Gesäßes eines Partners, entweder verbal und/oder körperlich, oder das Empfangen solcher Handlungen; impliziert typischerweise orale Stimulation.
+* Fußspiel
+? Der Akt, die Füße oder Fußpfoten in den sexuellen Kontext eines Rollenspiels einzubeziehen, einschließlich, aber nicht beschränkt auf die Verehrung der Füße, das Empfangen sexueller Befriedigung durch den Anblick oder Geruch der Füße ...
+* Kitzeln
+? Der Akt des Kitzelns und/oder Gekitzeltwerdens im sexuellen Kontext eines Rollenspiels; oder das Empfangen sexueller Stimulation durch solche Handlungen.
+* Empfindungsspiel
+? Empfindungsspiel beschreibt eine Vielzahl von Aktivitäten, sowohl vanille als auch kinky, die die Sinne des Körpers als Mittel nutzen, um einen Partner zu erregen und zu stimulieren. Obwohl Empfindungsspiel oft als ...
+* Elektrostimulation
+? Die Verwendung von Sextoys, die einen elektrischen Strom führen; manchmal schmerzhaft.
 
-#Misc. Fetish
-(Giving, Receiving)
+#Verschiedene Fetische
+(Geben, Empfangen)
 * Fisting
-? The act of placing one's hand(s) and/or arm(s) into a vagina, or receiving such actions.
+? Der Akt, die Hand(en) und/oder den Arm in eine Vagina einzuführen oder solche Handlungen zu empfangen.
 * Gangbang
-? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.
-* Breath play
-? A situation in which at least one character will have physical control over the breathing habits of another character, often by either intermittent choking and/or due to the penetration of the throat.
-* Impregnation
-? Impregnating a character
-* Pregnancy
-? Fetishizing a pregnant character
-* Feminization
-? Feminization is a type of role play that involves imposing traditionally female attributes onto a submissive male partner. It may also involve an adoption of traditionally feminine behaviors and mannerisms.
-* Cuckold / Cuckquean
-? Refers to the act of a character who, within the confines of the RP world has been designated to be in a relationship, will have sexual interaction with a character other than the one who has been predetermined to be in a relationship, in the context of the RP.
+? Wenn mehrere Partner, normalerweise 3 oder mehr, Geschlechtsverkehr mit einem einzigen willigen Partner haben.
+* Atemspiele
+? Eine Situation, in der mindestens eine Figur die Atemgewohnheiten einer anderen Figur physisch kontrolliert, oft durch intermittierendes Würgen und/oder durch das Eindringen in den Hals.
+* Befruchtung
+? Eine Figur zu befruchten.
+* Schwangerschaft
+? Fetischisierung einer schwangeren Figur.
+* Feminisierung
+? Feminisierung ist eine Art von Rollenspiel, bei dem traditionell weibliche Attribute auf einen unterwürfigen männlichen Partner übertragen werden. Es kann auch die Annahme traditionell weiblicher Verhaltensweisen und Manierismen umfassen.
+* Kuckold / Kuckquean
+? Bezieht sich auf den Akt einer Figur, die innerhalb der Rollenspielwelt in einer Beziehung steht und sexuelle Interaktionen mit einer anderen Figur hat als der, mit der sie in einer Beziehung steht.
 
-#Pain
-(Giving, Receiving)
-* Light pain
-? Refers to the inclusion of light physical pain due to acts which are directly sexual.
-* Heavy pain
-? Refers to the inclusion of heavy physical pain due to acts which are directly sexual; typically rough or excessive penetrations. This is probably gonna leave a mark.
-* Nipple clamps
-? pressure device applied to nipples to create pain which produces pleasure.
-* Clothes pins
-? Pinching sking between the forks of a clothes pin
-* Caning
-? Caning is a technique used in BDSM in which the dominant repeatedly strikes the submissive with a long flexible cane, usually on the buttocks.
-* Flogging
-? The use of toys, typically associated with BDSM and domination/submission, being employed against a submissive or bottom, particularly referring to contact play involving whips of any type, riding crops, paddles or flogs.
-* Gagging / Choking
-? Being made to gag or choke, either by objects inserted into the mouth or hands/objects around the neck.
-* Beating
-? Being struck with fists or other objects
+#Schmerz
+(Geben, Empfangen)
+* Leichter Schmerz
+? Bezieht sich auf die Einbeziehung von leichtem körperlichen Schmerz durch Handlungen, die direkt sexuell sind.
+* Starker Schmerz
+? Bezieht sich auf die Einbeziehung von starkem körperlichem Schmerz durch Handlungen, die direkt sexuell sind; typischerweise raue oder übermäßige Penetrationen. Das wird wahrscheinlich einen Abdruck hinterlassen.
+* Nippelklemmen
+? Druckgerät, das an den Brustwarzen angebracht wird, um Schmerz zu erzeugen, der Lust bereitet.
+* Wäscheklammern
+? Haut zwischen die Gabeln einer Wäscheklammer kneifen.
+* Stockschläge
+? Stockschläge ist eine Technik, die im BDSM verwendet wird, bei der der Dominante den Submissiven wiederholt mit einem langen, flexiblen Stock schlägt, normalerweise auf das Gesäß.
+* Auspeitschen
+? Die Verwendung von Spielzeugen, typischerweise im BDSM und Dominanz/Unterwerfungskontext, gegen einen Submissiven oder Bottom, insbesondere Kontaktspiel mit Peitschen jeglicher Art, Reitgerten ...
+* Würgen/Ersticken
+? Zum Würgen oder Ersticken gebracht werden, entweder durch Objekte, die in den Mund eingeführt werden oder Hände/Objekte um den Hals.
+* Schlagen
+? Mit Fäusten oder anderen Objekten geschlagen werden.
 * Spanking
-? The act of striking the buttocks of another character, or being the recipient of such; often as a form of erotic foreplay or as punishment in a BDSM setting.
-* Cock/Pussy slapping
-? slapping the genitalia of your partner, or recieving such slaps
-* Cock/Pussy torture
-? Engaging in an RP in which at least one character's genitals will be given negative attention, the intent of which to be to cause physical pain.
-* Hot Wax
-? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
-* Scratching
-? One character scratching another with their nails or claws, sometimes leaving marks; sometimes but not necessarily painful.
-* Biting
-? The act of biting or being bitten; sometimes painful, sometimes playful.
-* Cutting 
-? The act of cutting a partner to cause pain in a sexual context.
+? Der Akt, das Gesäß einer anderen Figur zu schlagen oder solche Schläge zu empfangen; oft als Form von erotischem Vorspiel oder als Bestrafung in einem BDSM-Kontext.
+* Penis/Vagina-Schläge
+? Die Genitalien des Partners schlagen oder solche Schläge empfangen.
+* Genitalfolter
+? Teilnahme an einem Rollenspiel, bei dem mindestens eine Figur negative Aufmerksamkeit auf die Genitalien richtet, mit der Absicht, körperlichen Schmerz zu verursachen.
+* Heißes Wachs
+? Der Akt der Verwendung von Wachs, typischerweise heißem Kerzenwachs, als Form der sexuellen Stimulation
